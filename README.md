@@ -1,21 +1,6 @@
 # System_Health
 First run init file 
 then you can run measurements as many time as you want
-Memory in GB, CPU_UTIL in percent
-Example result:
-ID,CPU_UTIL,Total_Memory,Avaiable_Memory,Usage_Memory,Percent_Memory_Used
-1,1.7,12.015,7.919,3.784,34.1
-2,0.3,12.015,7.919,3.784,34.1
-3,0.8,12.015,7.918,3.785,34.1
-4,0.6,12.015,7.917,3.786,34.1
-5,1.1,12.015,7.916,3.786,34.1
-6,1.1,12.015,7.927,3.776,34.0
-7,2.4,12.015,7.929,3.773,34.0
-8,0.6,12.015,7.93,3.772,34.0
-9,1.2,12.015,7.929,3.774,34.0
-10,0.7,12.015,7.929,3.773,34.0
-11,1.6,12.015,7.937,3.765,33.9
-12,1.2,12.015,7.936,3.766,33.9
-13,1.1,12.015,7.936,3.766,33.9
-14,0.9,12.015,7.936,3.767,34.0
-15,0.5,12.015,7.936,3.767,34.0
+EXAMPLE
+ID,Percent_CPU_UTIL,Total_Memory_GB,Avaiable_Memory_GB,Usage_Memory_GB,Percent_Memory_Used
+1,1.2,12.015,7.944,3.758,33.9
