@@ -1,5 +1,6 @@
 import csv
 from time import time, sleep
+import psutil
 
 # get id in existing file
 with open("system_health.csv", 'r') as fp:
