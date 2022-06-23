@@ -1,7 +1,7 @@
 import csv
 import psutil
 
-header = ['ID', 'CPU_UTIL', 'Total_Memory', 'Avaiable_Memory', 'Usage_Memory', 'Percent_Memory_Used']
+header = ['ID', 'Percent_CPU_UTIL', 'Total_Memory_GB', 'Avaiable_Memory_GB', 'Usage_Memory_GB', 'Percent_Memory_Used']
 
 # open the file in the write mo
 with open("system_health.csv", "a") as csv_file:
